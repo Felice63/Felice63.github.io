@@ -2,4 +2,4 @@
 
 ## This is like an h2 in HTML
 
-- [Demo of my Bootstrap site](https://felice63.github.io/)
+- [My Bootstrap site](https://felice63.github.io/)
